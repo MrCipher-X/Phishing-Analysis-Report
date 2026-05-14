@@ -53,7 +53,7 @@ graph TD;
   <!-- NOTE: REPLACE THESE SRC LINKS WITH YOUR ACTUAL GITHUB IMAGE PATHS -->
   <img src="https://github.com/MrCipher-X/Phishing-Analysis-Report/blob/main/header_analysis.png.png" width="45%" alt="Header Analysis">
   &nbsp; &nbsp;
-  <img src="https://via.placeholder.com/400x250/1a1a1a/8A2BE2?text=URL+Sandbox+Telemetry" width="45%" alt="Sandbox Evidence">
+  <img src="https://github.com/MrCipher-X/Phishing-Analysis-Report/blob/main/reputation_check.png.png" width="45%" alt="Sandbox Evidence">
 </p>
 
 ---
